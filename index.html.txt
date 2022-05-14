@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="auhtor" content="Jorge Duque">
+    <title>Jorge Duque</title>
+    
+    <!-- load stylesheets -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400">   <!-- Google web font "Open Sans" -->
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+      </head>
+
+        
+      <body>
+        <div class="todo">
+        <div class="container">
+
+            <div class="tm-sidebar">
+                <nav class="tm-main-nav">
+                    <ul>
+                        <li class="tm-nav-item"><a href="#research" class="tm-nav-item-link">Research</a></li>
+                        <li class="tm-nav-item"><a href="#talks" class="tm-nav-item-link">Talks</a></li>
+                        <li class="tm-nav-item"><a href="#teaching" class="tm-nav-item-link">Teaching</a></li>
+                    </ul>
+                </nav>
+            </div>
+            
+            <div     class="tm-main-content">
+                
+                 
+                
+                <section id="home" class="tm-content-box tm-banner margin-b-10">
+                    <div class="tm-banner-inner">
+                        <h1 class="animate__animated animate__backInDown" style = "font-family:georgia,serif;font-size:50px;">Jorge Duque</h1>
+                        <!-- h2 class="tm-banner-text">Ph.D. student @ <a href="https://impa.br/en_US/">IMPA</a></h2>-->
+                        <h2 class="tm-banner-text">georgy76 [at] impa [dot] br</h2> 
+                        <h2 class="tm-banner-text">jorge.duque [at] udea [dot] edu [dot] co</h2> 
+                        
+                    </div>                    
+                </section>
+				
+				<section class="main">
+                <section>
+                    <div class="tm-content-boxflex-2-col">
+                        <div class="pad flex-item tm-team-description-container">
+                            <h2>About me</h2>
+                            
+                            <p></p>  
+                            <p align="justify"> I obtained my Ph.D. in mathematics from <a href="https://impa.br/">IMPA</a> in April 2021, my advisor was Prof. <a href="http://w3.impa.br/~hossein">Hossein Movasati</a>. Previously, I got  my M.S. in mathematics from <a href="https://impa.br/">IMPA</a>, and my B.S. from <a href="http://www.udea.edu.co/">Universidad de Antioquia</a>  (UdeA).</p>
+                            
+                            <p align="justify"> My main research area is complex geometry, with emphasis in Hodge Theory. I am interested in the relation between  periods (roughly speaking multiple integrals), topology and geometry of complex varieties as well as the superlative role that periods have in transcendence theory. My current research focuses on Hodge cycles and their periods which provide a rich source of these relations. I have studied Hodge cycles in perturbations of a Fermat variety and I have analyzed transcendental properties of its periods.</p>
+                            
+                            <p align="justify"> I share in <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">FEDERICO ARDILA'S AXIOMS</a>:
+                            </p>
+                            <ul>
+                                	<b><p align="justify">1. Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.</b> </br>
+                                	</p>	
+                                 <b><p align="justify">2. Everyone can have joyful, meaningful, and empowering mathematical experiences.</b> </br>
+                                	</p>
+                                <b><p align="justify">3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.</b> </br>
+                                	</p>
+                                <b><p align="justify">4. Every student deserves to be treated with dignity and respect. </b> </br>
+                                	</p>	
+                                </ul>
+                            <p align="justify"> Here you can find my <a href="pdf/CV">CV</a>.</p>
+                        </div>
+                        
+                        
+                    </div>
+                </section>   
+                <section id="research">
+                    <div class="tm-content-boxflex-2-col">   
+                        <div class="pad flex-item">
+                            <h2>Articles</h2>
+                                <ul>
+                                	<li><b><p align="justify"><a href="pdf/Paper1.pdf">Periods of Hodge cycles and special values of the Gauss' hypergeometric function</a></b>. </br>
+                                	Pre-print. </p></li>	
+                                
+                                </ul>    
+                             
+                        </div>
+                        <h3 class="tm-section-title">Thesis</h3>
+                        <ul>
+                                	<li><b><p align="justify"><a href="pdf/Thesis_PhD.pdf">Hodge cycles and Gauss' hypergeometric function</a></b>. </br>
+                                	20/04/2021. IMPA. <a href="pdf/Presentation_thesis.pdf">Slides</a>. </p></li>	
+                                
+                                </ul>
+                    </div>
+                </section>
+                <b></b>
+                <b></b>
+                <section id="talks">
+                    <div class="tm-content-boxflex-2-col">   
+                        <div class="pad flex-item">
+                            <h2>Recorded Talks</h2>
+                            <b> <p align="justify">  </p></b>
+                            
+                            <ul>
+                                <li><p align="justify"><b><a href="https://www.youtube.com/watch?v=bXbhdfaHp30">Hodge cycles and Gauss hypergeometric function</a></b>. </br><a href="http://w3.impa.br/~hossein/GADEPs/GADEPs.html">GADEPs seminar: Geometry, Arithmetics and Differential Equations of Periods</a>. </br>31/07/2020. IMPA. Online Seminar. <a href="pdf/Presentation_Seminar_GADEPs_1.pdf">Slides</a>.</p></li>
+                            </ul>
+                            
+                        </div>
+                        
+                    </div>
+                    
+                <section id="teaching">
+                    <div class="tm-content-boxflex-2-col">   
+                        <div class="pad flex-item">
+                            <h2>Teaching</h2>
+                            <ul>
+                                	<li><b><p align="justify"><a href ="https://drive.google.com/file/d/1dk4rohP01d3Yh_dsNTAiL9fqQvgE1e5n/view?usp=sharing">Multivariable Calculus</a></b>. </br>
+                                	My lecture <a href ="https://drive.google.com/file/d/1RRRWKauVol3S4u-5pbFndJdws_ajkWJk/view?usp=sharing">notes</a> (in Spanish). </br>
+                                	2021-1. Facultad de Ciencias Farmacéuticas y Alimentarias. <a href ="http://www.udea.edu.co"> UdeA </a>.
+                                </ul>
+                             
+                             <h3 class="tm-section-title">Teaching Assitance</h3>
+                                <ul>
+                                	<li><b><p align="justify"><a href ="https://impa.br/ensino/programas-de-formacao/doutorado/disciplinas-doutorado/topicos-de-formas-modulares-e-curvas-elipticas/">Topics of Modular Forms and Elliptic Curves</a></b>. </br>
+                                	<a href ="http://w3.impa.br/~rvilla/">Prof. Roberto Villaflor</a> and <a href ="http://w3.impa.br/~hossein/"> Prof. Hossein Movasati</a>. </br>
+                                	Summer 2021. IMPA. 
+                                	</p></li>	
+                                
+                                </ul>
+                                
+                                
+                                <ul>
+                                	<li><b><p align="justify"><a href ="https://impa.br/ensino/programas-de-formacao/iniciacao-cientifica/disciplinas-de-iniciacao-cientifica/analise-na-reta/">Real Analysis</a></b>. </br>
+                                	<a href ="http://w3.impa.br/~gugu/">Prof. Carlos Gustavo Moreira</a>. </br>
+                                	Summer 2019. IMPA. 
+                                	</p></li>	
+                                
+                                </ul>    
+                             
+                        </div>
+                    </div>
+                </section>    
+                </section>
+                </section>
+                
+               
+        
+        <div class= "animate__animated animate__zoomInUp">
+        <aside class="columna">
+            <div class="slider">
+                <ul>
+                    <li><img class="centro" src="img/georgy.jpg" alt=""></li>
+                    <li><img class="centro" src="img/georgy123.jpg" alt=""></li>
+                    <li><img class="centro" src="img/georgy1.jpg" alt=""></li>
+                    <li><img class="centro" src="img/georgy2.jpg" alt=""></li>
+                    <li><img class="centro" src="img/torta.jpg" alt=""></li>
+                </ul>
+                
+            </div>
+            </aside>
+            </div>
+          
+            </div>
+            </aside>
+           </div>  
+        <footer class="oculto">
+            "It’s better to burn out than to fade away." Kurt Cobain
+        </footer> 
+
+    </div>
+    </body>
+    
+    </html>

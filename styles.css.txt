@@ -1,0 +1,121 @@
+.todo{
+    width: 1200px;
+    color: black;
+    margin: 50px auto;
+    padding: 50px;
+    text-align: center;
+    /*border-radius: 20px;*/
+    /*padding: 5px*/;
+    }
+
+.tm-main-nav{
+    background-color: black;
+    color: white;
+    /*border-style: solid;*/
+    border-radius: 30px;
+    
+}
+
+.tm-main-nav li {
+    padding: 20px;
+    list-style: none;
+    display:inline-block;
+    border-radius: 30px;
+    }
+
+.tm-banner-inner{
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+}
+
+.main {
+    height: 1200px;
+    width: 60%;
+    float: left;
+    margin: auto 15px;
+}
+
+.tm-content-boxflex-2-col{
+    background:black;
+    color: white;
+    border-radius: 30px;
+}
+
+.columna {
+   width: 30%;
+    /*border: 1px solid black;*/
+    float: left;
+}
+
+.centro{
+    width:120%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.oculto {
+    clear: both;
+    padding: 20px;
+    background:black;
+    border-radius: 30px;
+}
+
+img{
+    transition: all 0.5s linear;
+}
+
+img:hover{
+    transform: scale(0.9);
+    border-radius: 30px;
+}
+
+
+body{
+ background-image:url(img/foto8.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+.slider{
+    width:95%;
+    margin:auto;
+    overflow:hidden;
+}    
+    
+.slider ul {
+    display:flex;
+    padding: 0;
+    width:500%;
+    
+    animation: cambio 30s infinite alternate;
+    }
+
+.slider li {   
+        width: 100%;
+    list-style: none;
+}
+
+.slider img {
+    width:100%;
+}
+
+@keyframes cambio {
+    0% { margin-left: 0;}
+    15% { margin-left: 0;}
+    
+    20% { margin-left: -100%;}
+    35% { margin-left: -100%;}
+    
+    40% { margin-left: -200%;}
+    55% { margin-left: -200%;}
+    
+    60% { margin-left: -300%;}
+    75% { margin-left: -300%;}
+    
+    80% { margin-left: -400%;}
+    100% { margin-left: -400%;}
+}
